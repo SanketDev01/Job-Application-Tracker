@@ -31,6 +31,5 @@ Python | Flask | HTML | CSS | JavaScript | JSON
 ## 🚀 How to Run
 1. Clone the repo:  
    `bash
-   git clone https://github.com/yourusername/job-application-tracker.git
-
+  https://github.com/SanketDev01/Job-Application-Tracker/blob/main/README.md
    
